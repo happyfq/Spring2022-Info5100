@@ -1,5 +1,7 @@
 public class quiz {
+    public static void main(String[] args) {
 
+    }
 }
 class Person{
     String name;
@@ -29,12 +31,12 @@ class Professor extends Person{
     }
 }
 
-class Students extends Person{
+class Student extends Person{
     String quiz;
-    public Students() {
+    public Student() {
     }
 
-    public Students(String name, int id, int age) {
+    public Student(String name, int id, int age) {
         super(name, id, age);
     }
     public void takeQuiz(String quiz){
