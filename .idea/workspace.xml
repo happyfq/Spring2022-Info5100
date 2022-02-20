@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4536410-cf84-42e5-a0ef-e6935db291b5" name="Changes" comment="assignment2">
-      <change afterPath="$PROJECT_DIR$/Quiz/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Quiz/src/main/java/quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment2/Quiz1/pom.xml" afterDir="false" />
+    <list default="true" id="c4536410-cf84-42e5-a0ef-e6935db291b5" name="Changes" comment="quiz1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quiz/src/main/java/quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Quiz/src/main/java/quiz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -135,7 +133,28 @@
       <option name="project" value="LOCAL" />
       <updated>1644996577619</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="assignment2">
+      <created>1645316287757</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645316287757</updated>
+    </task>
+    <task id="LOCAL-00005" summary="quiz1">
+      <created>1645316301120</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645316301120</updated>
+    </task>
+    <task id="LOCAL-00006" summary="quiz1">
+      <created>1645316443371</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645316443371</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +172,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="assignment2" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment2" />
+    <MESSAGE value="quiz1" />
+    <option name="LAST_COMMIT_MESSAGE" value="quiz1" />
   </component>
 </project>

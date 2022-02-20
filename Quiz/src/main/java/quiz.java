@@ -1,7 +1,4 @@
 public class quiz {
-    public static void main(String[] args) {
-
-    }
 }
 class Person{
     String name;
@@ -19,7 +16,6 @@ class Person{
 }
 
 class Professor extends Person{
-    String quiz;
     public Professor() {
     }
 
@@ -32,7 +28,6 @@ class Professor extends Person{
 }
 
 class Student extends Person{
-    String quiz;
     public Student() {
     }
 
