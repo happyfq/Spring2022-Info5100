@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4536410-cf84-42e5-a0ef-e6935db291b5" name="Changes" comment="quiz1">
+      <change afterPath="$PROJECT_DIR$/assignment3/assignment3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment3/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment3/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment3/src/main/java/SeattlePoliceDepartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quiz/src/main/java/quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Quiz/src/main/java/quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +31,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="24QWNlEOvdWGUocilphd0ZIiCKl" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,7 +54,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Recursion/src/leetcode" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -49,7 +65,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.question1">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="question2.Main" />
       <module name="assignment2" />
@@ -59,6 +75,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="assignment3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,6 +121,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.question1" />
         <item itemvalue="Application.shapeTester" />
       </list>
@@ -154,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645316443371</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="quiz1">
+      <created>1645317403311</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645317403311</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
