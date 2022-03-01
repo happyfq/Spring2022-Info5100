@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args){
         SeattlePoliceDepartment department1 = new SeattlePoliceDepartment("Seattle Police Department");
         Person citizen1 = new Person("AA", 20);
         Person citizen2 = new Person("BB", 21);
