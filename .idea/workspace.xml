@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4536410-cf84-42e5-a0ef-e6935db291b5" name="Changes" comment="quiz1">
-      <change afterPath="$PROJECT_DIR$/assignment3/assignment3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment3/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment3/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment3/src/main/java/SeattlePoliceDepartment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c4536410-cf84-42e5-a0ef-e6935db291b5" name="Changes" comment="assignment3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,7 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645317403311</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="assignment3">
+      <created>1646110489854</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646110489854</updated>
+    </task>
+    <task id="LOCAL-00009" summary="assignment3">
+      <created>1646110563973</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1646110563973</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +207,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="assignment2" />
     <MESSAGE value="quiz1" />
-    <option name="LAST_COMMIT_MESSAGE" value="quiz1" />
+    <MESSAGE value="assignment3" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment3" />
   </component>
 </project>
