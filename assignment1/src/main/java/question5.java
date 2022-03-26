@@ -10,7 +10,6 @@ class Solution5 {
             if (n % 400 == 0) {
                 return true;
             }
-            return false;
         } else {
             if (n % 4 == 0) {
                 return true;

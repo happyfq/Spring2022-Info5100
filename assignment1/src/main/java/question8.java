@@ -1,6 +1,6 @@
 public class question8 {
     public static void main(String[] args) {
-        int scores = 88;
+        int scores = 78;
         Solution8 s = new Solution8();
         s.grade(scores);
     }

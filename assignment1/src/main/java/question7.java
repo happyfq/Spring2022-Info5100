@@ -1,6 +1,6 @@
 public class question7 {
     public static void main(String[] args) {
-        String ransomNote ="aac"; String magazine = "aab";
+        String ransomNote ="listen"; String magazine = "netsil";
         System.out.println(new Solution383().canConstruct(ransomNote,magazine));
     }
 }

@@ -7,6 +7,7 @@ public class SeattlePoliceDepartment {
 
     public void NotifyCitizens(String newsName) {
         this.newsName = newsName;
+
         for (Person citizen : person) {
             citizen.getNotification(this);
         }

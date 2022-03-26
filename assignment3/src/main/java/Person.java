@@ -21,6 +21,7 @@ public class Person {
         }
     }
 
+
     public void unsubscribe(SeattlePoliceDepartment seattlePoliceDepartment) {
         seattlePoliceDepartment.person.remove(this);
     }
