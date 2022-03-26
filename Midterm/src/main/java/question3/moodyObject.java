@@ -1,7 +1,6 @@
 package question3;
 
 public abstract class moodyObject {
-    String mood;
     // Return the mood : sad or happy – depending on which object sends the message
     abstract String getMood();
 

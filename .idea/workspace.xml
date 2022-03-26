@@ -5,57 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4536410-cf84-42e5-a0ef-e6935db291b5" name="Changes" comment="assignment3">
-      <change afterPath="$PROJECT_DIR$/Midterm/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question3/HappyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question3/PsychiatristObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question3/SadObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question3/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question3/moodyObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question4/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question4/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question4/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question4/MathOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question4/MultiplyOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question4/SubtractOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/src/main/java/question6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/target/classes/Camera.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/target/classes/Solution6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/target/classes/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/target/classes/question1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/target/classes/question4/AddOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/target/classes/question4/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/target/classes/question4/Context.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/target/classes/question4/MathOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/target/classes/question4/MultiplyOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/target/classes/question4/SubtractOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/target/classes/question5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Midterm/target/classes/question6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment1/src/main/java/main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment1/src/main/java/out/production/main/main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midTerm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2022-Info5100/.idea/Spring2022-Info5100.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2022-Info5100/assignment1/src/main/java/main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2022-Info5100/assignment1/src/main/java/out/production/main/main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment1/src/main/java/question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1/src/main/java/question2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment1/src/main/java/question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1/src/main/java/question5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment1/src/main/java/question7.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1/src/main/java/question7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment1/src/main/java/question8.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1/src/main/java/question8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment3/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3/src/main/java/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment3/src/main/java/SeattlePoliceDepartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3/src/main/java/SeattlePoliceDepartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Midterm/src/main/java/question3/HappyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm/src/main/java/question3/HappyObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
