@@ -16,16 +16,20 @@ public class assignment4 {
             }
         }
 
-        public void remove(T data) {
+        public T remove() {
+            T data;
             synchronized (objLock) {
-                que.remove(data);
+                data = que.remove();
             }
+            return data;
         }
 
-        public void peek() {
+        public T peek() {
+            T data;
             synchronized (objLock) {
-                que.peek();
+                data = que.peek();
             }
+            return data;
         }
 
         public boolean isEmpty() {
